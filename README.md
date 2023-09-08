@@ -1,13 +1,14 @@
 # CS2-CFGs
-<br/>
+
 ## **Including:**
+
 autoexec.cfg<br/>
 practice.cfg<br/>
-<br/>
+
 ## **Installation:**
 Download them here: [Download](https://github.com/NoM0Re/CS2-CFGs/archive/refs/heads/main.zip)<br/>
 unzip and drop the cfg files in following folder:<br/>
-<br/>
+
 // e.g. for C Drive<br/>
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg<br/>
 <br/>
