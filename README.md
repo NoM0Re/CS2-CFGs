@@ -6,7 +6,8 @@ autoexec.cfg<br/>
 practice.cfg<br/>
 
 ## **Installation:**
-Download them here: [Download](https://github.com/NoM0Re/CS2-CFGs/archive/refs/heads/main.zip)<br/>
+Download them here:<br/><br/>
+[Download](https://github.com/NoM0Re/CS2-CFGs/archive/refs/heads/main.zip)<br/><br/>
 unzip and drop the cfg files in following folder:<br/>
 
 // e.g. for C Drive<br/>
