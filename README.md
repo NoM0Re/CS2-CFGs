@@ -1,5 +1,7 @@
 # CS2-CFGs
 
+[![HitCount](https://hits.dwyl.com/NoM0Re/CS2-CFGs.svg?style=flat-square)](http://hits.dwyl.com/NoM0Re/CS2-CFGs)<br/>
+
 ## **Including:**
 
 autoexec.cfg<br/>
