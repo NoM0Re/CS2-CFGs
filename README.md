@@ -20,5 +20,5 @@ E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg<b
 <br/>
 <br/>
 Tags:<br/>
-CS2, CSGO2, cs, csgo2, cs2, config, jumpthrow cs2, jumpthrow bind cs2, Shift increase volume cs2, Shift increase volume, autoexec cs2, practice cs2, gaben<br/>
-#CS2, #CSGO2, #cs, #csgo2, #cs2, #config, #jumpthrow cs2, #jumpthrow bind cs2, #Shift increase volume cs2, #Shift increase volume, #autoexec cs2, #practice cs2, #gaben
+CS2, CSGO2, cs, csgo2, cs2, config, jumpthrow cs2, jumpthrow bind cs2, Shift increase volume cs2, Shift increase volume, CTRL increase volume cs2, CTRL increase volume, spin_karambit, spin_karambit cs2, autoexec cs2, practice cs2, gaben<br/>
+#CS2, #CSGO2, #cs, #csgo2, #cs2, #config, #jumpthrow cs2, #jumpthrow bind cs2, #Shift increase volume cs2, #Shift increase volume, #CTRL increase volume cs2, #CTRL increase volume, #spin_karambit, #spin_karambit cs2, #autoexec cs2, #practice cs2, #gaben
